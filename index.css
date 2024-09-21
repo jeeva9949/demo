@@ -1,0 +1,10 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.link{
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+}
